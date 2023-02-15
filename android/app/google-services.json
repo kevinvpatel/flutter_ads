@@ -1,0 +1,97 @@
+{
+  "project_info": {
+    "project_number": "958660188659",
+    "project_id": "test-13d8a",
+    "storage_bucket": "test-13d8a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958660188659:android:691d6cfbe223730c181a86",
+        "android_client_info": {
+          "package_name": "com.example.dummy_ad_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "958660188659-rs601k7ervs76lm7dnki0rrs7s62185q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzm-e2-Bf_ew7k7HBjeicl3WmNjUprxW0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "958660188659-rs601k7ervs76lm7dnki0rrs7s62185q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958660188659:android:e3f2beb8967cd057181a86",
+        "android_client_info": {
+          "package_name": "com.example.firebase_push_notification_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "958660188659-rs601k7ervs76lm7dnki0rrs7s62185q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzm-e2-Bf_ew7k7HBjeicl3WmNjUprxW0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "958660188659-rs601k7ervs76lm7dnki0rrs7s62185q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958660188659:android:a98db06ffd7ed218181a86",
+        "android_client_info": {
+          "package_name": "com.example.flutterproject1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "958660188659-rs601k7ervs76lm7dnki0rrs7s62185q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzm-e2-Bf_ew7k7HBjeicl3WmNjUprxW0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "958660188659-rs601k7ervs76lm7dnki0rrs7s62185q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

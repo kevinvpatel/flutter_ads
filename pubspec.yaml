@@ -1,0 +1,35 @@
+name: dummy_ad_flutter
+version: 1.0.0+1
+publish_to: none
+description: A new Flutter project.
+environment: 
+  sdk: '>=2.19.0 <3.0.0'
+
+dependencies: 
+  cupertino_icons: ^1.0.2
+  get: 4.6.5
+
+  firebase_remote_config: ^3.0.10
+  firebase_core: ^2.5.0
+  google_mobile_ads: ^2.3.0
+
+  facebook_audience_network: ^1.0.1
+
+  url_launcher: ^6.0.18
+  fluttertoast: ^8.1.2
+  cached_network_image: ^3.2.3
+  connectivity_plus: ^3.0.3
+  internet_connection_checker: ^1.0.0+1
+
+
+  flutter: 
+    sdk: flutter
+
+dev_dependencies: 
+  flutter_lints: ^2.0.0
+  flutter_test: 
+    sdk: flutter
+
+flutter: 
+  uses-material-design: true
+
